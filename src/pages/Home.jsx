@@ -12,7 +12,7 @@ export default function Home() {
                 Enjoy Your Vacation With Us
               </h1>
               <p className="fs-4 text-white mb-4 animated slideInDown">
-                <span className="text-primary">CoochBehar Travel</span> A
+                <span className="text-primary">Prithvi Travel</span> A
                 Trustable And Comforatbel Journey For You
               </p>
               <div className="position-relative w-75 mx-auto animated slideInDown">

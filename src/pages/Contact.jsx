@@ -76,7 +76,7 @@ function Contact() {
               </div>
               <div className="ms-3">
                 <h5 className="text-primary">Email</h5>
-                <p className="mb-0">info@coochbehartravel.com</p>
+                <p className="mb-0">Prithvitravelsiliguri@gmail.com</p>
               </div>
             </div>
           </div>
